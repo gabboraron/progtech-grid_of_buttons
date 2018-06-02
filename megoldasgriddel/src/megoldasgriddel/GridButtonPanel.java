@@ -23,7 +23,7 @@ public class GridButtonPanel {
     private static final int N = 8;
     private final List<JButton> list = new ArrayList<JButton>();
 
-    private JButton getGridButton(int r, int c) {
+    public JButton getGridButton(int r, int c) {
         int index = r * N + c;
         return list.get(index);
     }
