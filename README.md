@@ -1,2 +1,1 @@
-# progtech-grid_of_buttons
-class grid
+# How to create a grid of buttons, which is available by coordinates
